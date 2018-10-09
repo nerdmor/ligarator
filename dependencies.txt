@@ -1,0 +1,17 @@
+altgraph
+beautifulsoup4
+bs4
+certifi
+chardet
+future
+idna
+macholib
+ortools
+pefile
+pip
+protobuf
+requests
+setuptools
+six
+urllib3
+pywin32
