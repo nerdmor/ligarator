@@ -5,10 +5,10 @@ Encontre a combinação mais barata de lojas para comprar suas cartas de Magic
 Um script em python que encontre a combinação mais barata de lojas para a compra de cartas de Magic entre cartas na LigaMagic. Utiliza solução linear de equações para encontrar o ponto mínimo entre as diferentes combinações de lojas.
 
 ## Requerimentos
-Python 3.5 (Testado apenas a partir desta versão)
-Google Ortools (No Windows, depende de Python x64 para ser utilizado)
-Outras bibliotecas Python
-Uma conexão com a internet
+* Python 3.5 (Testado apenas a partir desta versão)
+* Google Ortools (No Windows, depende de Python x64 para ser utilizado)
+* Outras bibliotecas Python (descritas em dependencies.txt)
+* Uma conexão com a internet (duh)
 
 ## Limitações Conhecidas
 * Não checa se o nome da carta está escrito corretamente
