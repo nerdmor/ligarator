@@ -44,18 +44,18 @@ Um script em python que encontre a combinação mais barata de lojas para a comp
         4 llanowar elves
         3 Giant Growth
         ```
-5.1. Opcional: faça uma lista de lojas banidas
+6. Opcional: faça uma lista de lojas banidas
     * Edite o arquivo banned_stores.txt e coloque o nome das lojas de quem você não quer comprar, como aparecem na Liga, um nome por linha
     * Exemplos:
         ```
         nome loja 1
         nome loja 2
         ```
-6. No terminal, execute o arquivo **ligarator.py**
+7. No terminal, execute o arquivo **ligarator.py**
     ```
     python ligarator.py
     ```
-7. Siga as instruções na tela
+8. Siga as instruções na tela
     * O resultado pode demorar. Para não estressar o site, o script demora vários segundos entre cada carta. 
     * O cálculo de opções pode ser bastante intenso em recursos, dependendo das ofertas
     * Os resultados serão mostrados na tela e salvos na mesma pasta em que o arquivo com a sua wantlist estava.
